@@ -51,7 +51,7 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="55%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=krau&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%" />
 
