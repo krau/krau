@@ -32,14 +32,12 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning Golang&Gin.  
   
-
 - ✏️ I’m using [valaxy](https://github.com/YunYouJun/valaxy) to build [my blog](https://krau.top).  
   
-
 - ⚡ Fun fact: I use tab to indent.  
 
 
@@ -47,7 +45,7 @@
 
 
 
-</td></tr></table>  
+</td></tr>
 
 <br/>  
 
