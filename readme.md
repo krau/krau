@@ -51,17 +51,8 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="55%">
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=krau&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krau&hide=HTML,CSS,JavaScript&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=krau&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krau&hide_border=true&layout=compact&hide=HTML,JavaScript,CSS&theme=dracula" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
 
 <div align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=krau.krau" align="center" />
