@@ -1,9 +1,6 @@
 ## <div align="center">Hey 👋, I'm Krau(柯罗), a learning undergraduate from China.📚</div>  
-  
 
 <br/>  
-
-
 
 ### Languages & Tools  
 <div align="center">  
@@ -38,11 +35,10 @@
   
 - ✏️ I’m using [valaxy](https://github.com/YunYouJun/valaxy) to build [my blog](https://krau.top).  
   
-- ⚡ Fun fact: I use tab to indent.  
+- 😐 I hate studying for exams and certificates.
 
 
 </td><td valign="top" width="50%">
-
 
 
 </td></tr>
