@@ -1,7 +1,5 @@
 ## <div align="center">Hey 👋, I'm Krau(柯罗), a learning undergraduate from China.📚</div>  
 
-<br/>  
-
 ### Languages & Tools  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
