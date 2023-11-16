@@ -29,7 +29,7 @@
 ## Rapidfire  
 <tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Golang&Gin.  
+- 🌱 I’m currently learning micro service.  
   
 - ✏️ I’m using [valaxy](https://github.com/YunYouJun/valaxy) to build [my blog](https://krau.top).  
   
