@@ -1,4 +1,4 @@
-## <div align="center">Hey 👋, I'm Krau(柯罗), a learning undergraduate from China.📚</div>  
+## <div align="center">Hey 👋, I'm Krau, a learning undergraduate from China.📚</div>  
 
 ### Languages & Tools  
 <div align="center">  
@@ -25,20 +25,22 @@
 
 <br/>  
 
-
-## Rapidfire  
+## About
 <tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning micro service.  
+- 🌱 I’m currently learning micro service.
   
 - ✏️ I’m using [valaxy](https://github.com/YunYouJun/valaxy) to build [my blog](https://krau.top).  
   
 - 😐 I hate studying for exams and certificates.
 
-
 </td><td valign="top" width="50%">
-
 
 </td></tr>
 
 <br/>
+
+## 📈 Github statistics  
+
+![](https://github-readme-stats.vercel.app/api?username=krau&theme=default&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krau&card_width=360&hide_current_streak=true)](https://git.io/streak-stats)
