@@ -1,4 +1,4 @@
-## <div align="center">Hey 👋, I'm Krau, a learning undergraduate from China.📚</div>  
+
 ## 📈 Github statistics  
 
 ![](https://github-readme-stats.vercel.app/api?username=krau&theme=default&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
