@@ -1,5 +1,5 @@
 
 ## 📈 Github statistics  
 
-![](https://github-readme-stats.vercel.app/api?username=krau&theme=default&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krau&card_width=360&hide_current_streak=true)](https://git.io/streak-stats)
+![Github Rank](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=krau&include_orgs=true&count_private=true&show_icons=true&include_all_commits=true&icon_color=39C5BB)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krau&card_width=360)
